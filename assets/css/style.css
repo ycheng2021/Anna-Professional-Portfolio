@@ -1,0 +1,51 @@
+html {
+    text-align: center;
+    background-image: url('/assets/images/background.jpg');
+}
+
+.container-fluid {
+    justify-content: center !important;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.navbar-nav a:hover {
+    font-size: 25px;
+    color: blueviolet !important;
+}
+
+.name {
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+}
+
+.my-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.main-project {
+    width: 60%;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.carousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.carousel-caption p {
+    color: white !important;
+}
+
+.carousel-indicators button {
+    color: white !important;
+}
