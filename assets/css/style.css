@@ -54,6 +54,16 @@ body {
     box-shadow: 5px 5px 5px rgb(44, 44, 44);
 }
 
+.card-text {
+    color: #E63946;
+}
+
+.modelo-btn {
+    background-color: #457B9D;
+    color: #F1FAEE;
+    border: none;
+}
+
 .center {
     margin: 0 auto;
 }
