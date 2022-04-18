@@ -1,6 +1,11 @@
 html {
     text-align: center;
-    background-image: url('/assets/images/background.jpg');
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
 }
 
 .container-fluid {
@@ -21,6 +26,14 @@ html {
     font-size: 100px;
 }
 
+.title {
+    font-family: Helvetica, sans-serif;
+}
+
+.about-me {
+    color: white;
+}
+
 .my-image {
     width: 200px;
     height: 200px;
@@ -29,10 +42,16 @@ html {
 
 .main-project {
     width: 60%;
+    border: none;
+    box-shadow: 5px 5px 5px rgb(44, 44, 44);
 }
 
 .center {
     margin: 0 auto;
+}
+
+.projects-carousel {
+    margin-top: 50px;
 }
 
 .carousel {
@@ -48,4 +67,17 @@ html {
 
 .carousel-indicators button {
     color: white !important;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.links i {
+    margin: 10px;
+    color: white;
+    font-size: 30px;
 }
