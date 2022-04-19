@@ -181,6 +181,10 @@ a {
     width: 40%;
 }
 
+.github-link {
+    color: lightskyblue !important;
+}
+
 .contact-me {
     margin-top: 40px;
     margin-bottom: 40px;
