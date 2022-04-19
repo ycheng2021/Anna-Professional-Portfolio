@@ -158,6 +158,8 @@ a {
     background-color: grey;
     padding-top: 10px;
     padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .modelo-btn {
