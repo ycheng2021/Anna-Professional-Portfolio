@@ -84,6 +84,11 @@ a {
 .name {
     font-family: 'Caveat', cursive;
     font-size: 100px;
+    padding-top: 200px;
+}
+
+.bio {
+    margin: 20px;
 }
 
 .title {
@@ -91,13 +96,48 @@ a {
 }
 
 .about-me {
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .my-image {
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-me {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.skill-title {
+    padding-top: 80px;
+}
+
+.skill-list {
+    margin: 30px auto;
+}
+
+.skill-set {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 40px auto;
+}
+
+.skill-box {
+    height: 100px;
+    width: 100px
+}
+
+.skill-box i {
+    font-size: 30px;
+}
+
+.works-box {
+    padding-top: 80px;
 }
 
 .main-project {
@@ -106,8 +146,18 @@ a {
     box-shadow: 5px 5px 5px rgb(44, 44, 44);
 }
 
+.card-body {
+    background-color: #1D3557;
+}
+
 .card-text {
-    color: #E63946;
+    color: white;
+}
+
+.description {
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 25px;
 }
 
 .modelo-btn {
@@ -129,6 +179,31 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+}
+
+.contact-me {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contact-form {
+    width: 270px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.text-field {
+    margin-top: 20px;
+}
+
+.connect-btn {
+    padding: 5px;
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    box-shadow: 3px 3px 3px rgb(42, 9, 73);
+    border-radius: 3px;
+    margin-top: 10px;
 }
 
 .links {
