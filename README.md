@@ -11,6 +11,6 @@ My name is Anna Cheng and I am a coding student currently taking online classes.
 
 Github Link: https://github.com/ycheng2021/Anna-Professional-Portfolio
 
-Deployed Link: https://ycheng2021.github.io/Anna-Cheng-Portfolio/
+Deployed Link: https://ycheng2021.github.io/Anna-Professional-Portfolio/
 
 ![This is a screenshot of the website]()
